@@ -75,7 +75,7 @@
         "mods": {
             "text": "fml.menu.mods",
             "posX": 44,
-            "posY": -40,
+            "posY": -70,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -90,7 +90,7 @@
         "options": {
             "text": "menu.options",
             "posX": 44,
-            "posY": -10,
+            "posY": -40,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -102,11 +102,10 @@
                 "gui": "options"
             }
         },
-        
         "languages": {
             "text": "Languages",
             "posX": 44,
-            "posY": 20,
+            "posY": -10,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -121,7 +120,7 @@
         "bug reports": {
             "text": "Bug Reports",
             "posX": 44,
-            "posY": 50,
+            "posY": 20,
             "width": 100,
             "height": 20,
             "normalTextColor": 16777215,
@@ -133,8 +132,24 @@
                 "link": "https://github.com/brch-cndy/Breach-s-Modpack/issues"
             }
         },
-		"discord": {
+        "discord": {
             "text": "Discord",
+            "posX": 44,
+            "posY": 50,
+            "width": 100,
+            "height": 20,
+            "normalTextColor": 16777215,
+            "hoverTextColor": 4286414205,
+            "texture": "modpack:textures/gui/button2.png",
+            "alignment": "left_center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/tW7CB6b"
+            }
+        },
+		"discord2": {
+            "text": "Discord 2",
             "posX": 44,
             "posY": 80,
             "width": 100,
@@ -146,7 +161,7 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://discord.gg/tW7CB6b"
+                "link" : "https://discord.gg/NcwCGvM"
             }
         },
         "quit": {
