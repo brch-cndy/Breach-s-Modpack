@@ -1,0 +1,1 @@
+recipes.replaceAllOccurences(<ic2:crafting:1>, <ore:circuitBasic>);
