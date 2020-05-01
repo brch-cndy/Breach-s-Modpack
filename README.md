@@ -3,3 +3,7 @@ Forge version 14.23.5.2847
 
 
 h
+
+Recommended Java Args, Replace 'minecraftdir' with your minecraft directory:
+
+-Xmx8192m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory="minecraftdir" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US
