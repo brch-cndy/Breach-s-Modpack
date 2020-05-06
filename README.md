@@ -11,5 +11,7 @@ Recommended Java Args, Replace 'minecraftdir' with your minecraft directory:
 
 # TODO
 Fix bugs
+
 Add Forge Essentials??
+
 https://www.curseforge.com/minecraft/mc-mods/forge-essentials-74735
